@@ -1,0 +1,1 @@
+gsutil cp /home/chandrakarsatvik/input_data.csv gs://satvik-storage-bucket/
